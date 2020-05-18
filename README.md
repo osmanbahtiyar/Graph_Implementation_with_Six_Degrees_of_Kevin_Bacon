@@ -23,8 +23,8 @@ I used the C programming language in this project because it is a low-level lang
 
 ## Screenshots
 
-<img src="img/input-1.png" height = "400" width = "600">
+<img src="img/input-1.PNG" height = "400" width = "600">
 
-<img src="img/input-2.png" height = "400" width = "600">
+<img src="img/input-2.PNG" height = "400" width = "600">
 
-<img src="img/input-3.png" height = "400" width = "600">
+<img src="img/input-3.PNG" height = "400" width = "600">
