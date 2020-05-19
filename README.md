@@ -1,5 +1,5 @@
 # Graph Implementation with Small World Phenomenon
-> Graph implementation with a small-world phenomenon, finding Kevin Bacon numbers in the given txt file using breadth-first search.
+> Graph implementation with small-world phenomenon, finding Kevin Bacon numbers in the given txt file using breadth-first search.
 
 ## What is small-world phenomenon
 
